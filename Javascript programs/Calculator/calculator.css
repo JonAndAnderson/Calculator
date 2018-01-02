@@ -1,0 +1,41 @@
+.align {
+  margin-left: 40%;
+  margin-top: 100px;
+  margin-bottom: 300px;
+}
+
+#calculator {
+  height: 28.5em;
+  width: 20em;
+  background-color: #00B262;
+  text-align:center;
+  border:solid #000000;
+  border-radius: 5px;
+}
+
+#result_field {
+  background-color:white;
+  width: 75%;
+  height: 2.5em;
+  border:solid;
+  border-color: #878E88;
+  border-width: .5em;
+  margin-bottom:1em;
+  margin-top: 1em;
+  text-align:right;
+  font-size: 100%;
+  font-weight:bold;
+  color: #725752;
+}
+
+button {
+  height:4em;
+  width:4em;
+  margin-top:1em;
+  background-color: #FEFAE1;
+  border:solid;
+  border-color: #000000;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #725752;
+}
